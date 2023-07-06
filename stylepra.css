@@ -1,0 +1,11 @@
+.box1{
+    background-color: red;
+    margin: 10px 20px;
+}
+.box2{
+    background-color: yellow;
+    margin: 20px 25px;
+}
+body{
+    background-color: aquamarine;
+}
